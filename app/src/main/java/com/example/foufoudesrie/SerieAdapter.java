@@ -11,7 +11,7 @@ import android.widget.TextView;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
-import java.util.List;
+import java.util.List;  
 
 class SerieAdapter extends ArrayAdapter<Serie> {
     private Context mContext;
